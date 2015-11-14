@@ -1,2 +1,1 @@
-# Training-for-ICPC
-classified by topics
+classified by topics,the number prefixed represents difficulty
